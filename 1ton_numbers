@@ -1,0 +1,7 @@
+num=int(input("enter range"))
+for i in range(num):
+ print(i)
+i=i+1
+
+
+
